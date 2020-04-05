@@ -21,8 +21,10 @@ bean在spring容器中只实例化一次，只销毁一次，为单例模式<br>
 ## 2、Spring MVC
 
 * HTTP
-* Model(模型层)、View(视图层)、Controller(控制层)
+* Model(模型层)、View(视图层)、Controller(控制层)<br>
 核心组件：DispatcherServlet
+
+![](https://github.com/Wz0503/Community/raw/master/images/mvc.png)
 
 
 
